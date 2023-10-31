@@ -9,3 +9,5 @@ We welcome you to contributing to this repository!
 2. **Clone your Fork**: Clone the forked repository to your local development environment.
 
 3. **Programming Language to be used**: Use Java only.
+
+4. **Java -version**: Use Java 8+
